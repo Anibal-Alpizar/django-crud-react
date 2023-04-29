@@ -1,3 +1,9 @@
+# intall django-cors-headers and django-rest-framework
+# pip install django-cors-headers
+# pip install djangorestframework
+# add 'corsheaders' and 'rest_framework' in INSTALLED_APPS
+# add 'corsheaders.middleware.CorsMiddleware' in MIDDLEWARE
+
 """
 Django settings for django_crud_api project.
 
